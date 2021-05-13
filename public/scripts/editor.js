@@ -1,4 +1,4 @@
-const baseURL = 'http://localhost:8081';
+const baseURL = 'https://doctor-who-fan-page.herokuapp.com/';
 let doctors;
 let currDoc;
 
